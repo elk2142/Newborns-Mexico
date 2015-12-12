@@ -1,0 +1,27 @@
+---
+title: "DataMiningFinal"
+author: "Erica Kilbride"
+date: "December 12, 2015"
+output: html_document
+---
+
+Dependent - low weight
+Independent - Mother Data, multiple birth
+Model: 
+logit
+trees
+random forest/Bag
+Neural Networks
+Unsupervised - PCA
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
